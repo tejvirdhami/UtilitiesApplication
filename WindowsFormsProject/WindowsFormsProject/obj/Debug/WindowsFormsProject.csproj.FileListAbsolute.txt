@@ -1,0 +1,17 @@
+C:\Users\Apple\Desktop\OOP PROJECT\WindowsFormsProject\WindowsFormsProject\bin\Debug\WindowsFormsProject.exe.config
+C:\Users\Apple\Desktop\OOP PROJECT\WindowsFormsProject\WindowsFormsProject\bin\Debug\WindowsFormsProject.exe
+C:\Users\Apple\Desktop\OOP PROJECT\WindowsFormsProject\WindowsFormsProject\bin\Debug\WindowsFormsProject.pdb
+C:\Users\Apple\Desktop\OOP PROJECT\WindowsFormsProject\WindowsFormsProject\obj\Debug\WindowsFormsProject.csprojAssemblyReference.cache
+C:\Users\Apple\Desktop\OOP PROJECT\WindowsFormsProject\WindowsFormsProject\obj\Debug\WindowsFormsProject.Form0.resources
+C:\Users\Apple\Desktop\OOP PROJECT\WindowsFormsProject\WindowsFormsProject\obj\Debug\WindowsFormsProject.Properties.Resources.resources
+C:\Users\Apple\Desktop\OOP PROJECT\WindowsFormsProject\WindowsFormsProject\obj\Debug\WindowsFormsProject.csproj.GenerateResource.cache
+C:\Users\Apple\Desktop\OOP PROJECT\WindowsFormsProject\WindowsFormsProject\obj\Debug\WindowsFormsProject.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\OOP PROJECT\WindowsFormsProject\WindowsFormsProject\obj\Debug\WindowsFormsProject.exe
+C:\Users\Apple\Desktop\OOP PROJECT\WindowsFormsProject\WindowsFormsProject\obj\Debug\WindowsFormsProject.pdb
+C:\Users\Apple\Desktop\OOP PROJECT\WindowsFormsProject\WindowsFormsProject\obj\Debug\WindowsFormsProject.Form6.resources
+C:\Users\Apple\Desktop\OOP PROJECT\WindowsFormsProject\WindowsFormsProject\obj\Debug\WindowsFormsProject.Form5.resources
+C:\Users\Apple\Desktop\OOP PROJECT\WindowsFormsProject\WindowsFormsProject\obj\Debug\WindowsFormsProject.Form4.resources
+C:\Users\Apple\Desktop\OOP PROJECT\WindowsFormsProject\WindowsFormsProject\obj\Debug\WindowsFormsProject.Form3.resources
+C:\Users\Apple\Desktop\OOP PROJECT\WindowsFormsProject\WindowsFormsProject\obj\Debug\WindowsFormsProject.Form1.resources
+C:\Users\Apple\Desktop\OOP PROJECT\WindowsFormsProject\WindowsFormsProject\obj\Debug\WindowsFormsProject.Form2.resources
+C:\Users\Apple\Desktop\OOP PROJECT\WindowsFormsProject\WindowsFormsProject\obj\Debug\WindowsFormsProject.FormPersonal.resources
